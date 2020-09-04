@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153057134030",
+    "firebase_url": "https://churchattend.firebaseio.com",
+    "project_id": "churchattend",
+    "storage_bucket": "churchattend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153057134030:android:4662ef7c70de96cb30d79f",
+        "android_client_info": {
+          "package_name": "com.example.church_attendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153057134030-tlfpnm1em4j3hjpvmh2hodm02c59tu1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.church_attendence",
+            "certificate_hash": "33f5179d0382bd483d2913e522462ebe0c77a1fc"
+          }
+        },
+        {
+          "client_id": "153057134030-17a24sb1kn78fomk862m7sk0i9o5vlb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLjnMgBJnSaKP59HPtGVjsCbN4B5FowU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153057134030-17a24sb1kn78fomk862m7sk0i9o5vlb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
