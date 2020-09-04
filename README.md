@@ -1,6 +1,12 @@
 # church_attendence
 
-A new Flutter project.
+Attendence System for Syro Malabar Catholic Church CCD 
+
+## Features
+
+* Scans a nfc tag for valid name and uploads to  Google Firebase
+* Also allows to check attendence history
+
 
 ## Getting Started
 
